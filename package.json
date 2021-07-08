@@ -1,6 +1,6 @@
 {
   "name": "@jlalmes/goober",
-  "version": "2.0.38-fix.4",
+  "version": "2.0.38-fix.5",
   "description": "A less than 1KB css-in-js solution",
   "sideEffects": false,
   "main": "dist/goober.js",
